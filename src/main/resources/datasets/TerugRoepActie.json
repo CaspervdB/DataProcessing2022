@@ -1,0 +1,358 @@
+{
+  "voertuigen": [
+    {
+      "kenteken": "90RBJ5",
+      "referentiecodeRDW": "MGP150162",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "49SVL6",
+      "referentiecodeRDW": "MGP160298",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "41ZBT6",
+      "referentiecodeRDW": "MGP140085",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "28ZLT7",
+      "referentiecodeRDW": "MGP140255",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "34PDBK",
+      "referentiecodeRDW": "MGP150162",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "2ZDK29",
+      "referentiecodeRDW": "MGP150202",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "3ZLG90",
+      "referentiecodeRDW": "MGP150162",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "65RGF3",
+      "referentiecodeRDW": "MGP130104",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "7VZH86",
+      "referentiecodeRDW": "MGP140345",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "59XFTH",
+      "referentiecodeRDW": "MGP090077",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "33GXBX",
+      "referentiecodeRDW": "MGP150137",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "KJ565K",
+      "referentiecodeRDW": "MGP150111",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "V639TH",
+      "referentiecodeRDW": "MGP200215",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "73PRJ3",
+      "referentiecodeRDW": "MGP130104",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "47PZLD",
+      "referentiecodeRDW": "MGP130077",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "39JNR4",
+      "referentiecodeRDW": "MGP160255",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "21SGZ1",
+      "referentiecodeRDW": "MGP130102",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "54LSNL",
+      "referentiecodeRDW": "MGP140123",
+      "codeStatus": "O",
+      "status": "Openstaande terugroepactie"
+    },
+    {
+      "kenteken": "54NSZV",
+      "referentiecodeRDW": "MGP180531",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "62SVSX",
+      "referentiecodeRDW": "MGP130077",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "19TLR7",
+      "referentiecodeRDW": "MGP140085",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "1SJT40",
+      "referentiecodeRDW": "MGP150209",
+      "codeStatus": "O",
+      "status": "Openstaande terugroepactie"
+    },
+    {
+      "kenteken": "1KSV24",
+      "referentiecodeRDW": "MGP140167",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "78TVR4",
+      "referentiecodeRDW": "MGP140255",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "G298JG",
+      "referentiecodeRDW": "MGP180132",
+      "codeStatus": "O",
+      "status": "Openstaande terugroepactie"
+    },
+    {
+      "kenteken": "32KSL4",
+      "referentiecodeRDW": "MGP150162",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "85RJP8",
+      "referentiecodeRDW": "MGP140263",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "HB533H",
+      "referentiecodeRDW": "MGP160113",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "9KBL39",
+      "referentiecodeRDW": "MGP150339",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "71XVH9",
+      "referentiecodeRDW": "MGP180561",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "06NPZ1",
+      "referentiecodeRDW": "MGP130071",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "66XRFG",
+      "referentiecodeRDW": "MGP090029",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "83RSTN",
+      "referentiecodeRDW": "MGP090098",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "69PLB8",
+      "referentiecodeRDW": "MGP120231",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "89PZT8",
+      "referentiecodeRDW": "MGP160255",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "GG445X",
+      "referentiecodeRDW": "MGP160191",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "91XNLR",
+      "referentiecodeRDW": "MGP090098",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "91XZLZ",
+      "referentiecodeRDW": "MGP140106",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "16NZRS",
+      "referentiecodeRDW": "MGP120373",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "00JVX1",
+      "referentiecodeRDW": "MGP160255",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "78NVG4",
+      "referentiecodeRDW": "MGP140263",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "90XRFF",
+      "referentiecodeRDW": "MGP150162",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "81PXJ9",
+      "referentiecodeRDW": "MGP140327",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "05XDG6",
+      "referentiecodeRDW": "MGP160255",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "2KTH48",
+      "referentiecodeRDW": "MGP150236",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "21ZFPH",
+      "referentiecodeRDW": "MGP150159",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "84GFK9",
+      "referentiecodeRDW": "MGP120406",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "22RXZJ",
+      "referentiecodeRDW": "MGP140150",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "9TFV94",
+      "referentiecodeRDW": "MGP150052",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "VK003S",
+      "referentiecodeRDW": "MGP150042",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "86SLKR",
+      "referentiecodeRDW": "MGP100287",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "JN757T",
+      "referentiecodeRDW": "MGP150020",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "88TLG6",
+      "referentiecodeRDW": "MGP140085",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "90KFK9",
+      "referentiecodeRDW": "MGP150162",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "97LGX6",
+      "referentiecodeRDW": "MGP160062",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "44HZG5",
+      "referentiecodeRDW": "MGP150219",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "61ZNJP",
+      "referentiecodeRDW": "MGP150162",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "59XTF9",
+      "referentiecodeRDW": "MGP130048",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    },
+    {
+      "kenteken": "53XZTB",
+      "referentiecodeRDW": "MGP120122",
+      "codeStatus": "P",
+      "status": "Producent heeft herstel gemeld"
+    }
+  ]
+}
