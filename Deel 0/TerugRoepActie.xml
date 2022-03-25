@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<voertuigen>
+  <voertuig>
+    <kenteken>90RBJ5</kenteken>
+    <referentiecodeRDW>MGP150162</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>49SVL6</kenteken>
+    <referentiecodeRDW>MGP160298</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>41ZBT6</kenteken>
+    <referentiecodeRDW>MGP140085</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>28ZLT7</kenteken>
+    <referentiecodeRDW>MGP140255</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>34PDBK</kenteken>
+    <referentiecodeRDW>MGP150162</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>2ZDK29</kenteken>
+    <referentiecodeRDW>MGP150202</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>3ZLG90</kenteken>
+    <referentiecodeRDW>MGP150162</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>65RGF3</kenteken>
+    <referentiecodeRDW>MGP130104</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>7VZH86</kenteken>
+    <referentiecodeRDW>MGP140345</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>59XFTH</kenteken>
+    <referentiecodeRDW>MGP090077</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>33GXBX</kenteken>
+    <referentiecodeRDW>MGP150137</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>KJ565K</kenteken>
+    <referentiecodeRDW>MGP150111</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>V639TH</kenteken>
+    <referentiecodeRDW>MGP200215</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>73PRJ3</kenteken>
+    <referentiecodeRDW>MGP130104</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>47PZLD</kenteken>
+    <referentiecodeRDW>MGP130077</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>39JNR4</kenteken>
+    <referentiecodeRDW>MGP160255</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>21SGZ1</kenteken>
+    <referentiecodeRDW>MGP130102</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>54LSNL</kenteken>
+    <referentiecodeRDW>MGP140123</referentiecodeRDW>
+    <codeStatus>O</codeStatus>
+    <status>Openstaande terugroepactie</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>54NSZV</kenteken>
+    <referentiecodeRDW>MGP180531</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>62SVSX</kenteken>
+    <referentiecodeRDW>MGP130077</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>19TLR7</kenteken>
+    <referentiecodeRDW>MGP140085</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>1SJT40</kenteken>
+    <referentiecodeRDW>MGP150209</referentiecodeRDW>
+    <codeStatus>O</codeStatus>
+    <status>Openstaande terugroepactie</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>1KSV24</kenteken>
+    <referentiecodeRDW>MGP140167</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>78TVR4</kenteken>
+    <referentiecodeRDW>MGP140255</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>G298JG</kenteken>
+    <referentiecodeRDW>MGP180132</referentiecodeRDW>
+    <codeStatus>O</codeStatus>
+    <status>Openstaande terugroepactie</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>32KSL4</kenteken>
+    <referentiecodeRDW>MGP150162</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>85RJP8</kenteken>
+    <referentiecodeRDW>MGP140263</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>HB533H</kenteken>
+    <referentiecodeRDW>MGP160113</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>9KBL39</kenteken>
+    <referentiecodeRDW>MGP150339</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>71XVH9</kenteken>
+    <referentiecodeRDW>MGP180561</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>06NPZ1</kenteken>
+    <referentiecodeRDW>MGP130071</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>66XRFG</kenteken>
+    <referentiecodeRDW>MGP090029</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>83RSTN</kenteken>
+    <referentiecodeRDW>MGP090098</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>69PLB8</kenteken>
+    <referentiecodeRDW>MGP120231</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>89PZT8</kenteken>
+    <referentiecodeRDW>MGP160255</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>GG445X</kenteken>
+    <referentiecodeRDW>MGP160191</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>91XNLR</kenteken>
+    <referentiecodeRDW>MGP090098</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>91XZLZ</kenteken>
+    <referentiecodeRDW>MGP140106</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>16NZRS</kenteken>
+    <referentiecodeRDW>MGP120373</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>00JVX1</kenteken>
+    <referentiecodeRDW>MGP160255</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>78NVG4</kenteken>
+    <referentiecodeRDW>MGP140263</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>90XRFF</kenteken>
+    <referentiecodeRDW>MGP150162</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>81PXJ9</kenteken>
+    <referentiecodeRDW>MGP140327</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>05XDG6</kenteken>
+    <referentiecodeRDW>MGP160255</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>2KTH48</kenteken>
+    <referentiecodeRDW>MGP150236</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>21ZFPH</kenteken>
+    <referentiecodeRDW>MGP150159</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>84GFK9</kenteken>
+    <referentiecodeRDW>MGP120406</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>22RXZJ</kenteken>
+    <referentiecodeRDW>MGP140150</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>9TFV94</kenteken>
+    <referentiecodeRDW>MGP150052</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>VK003S</kenteken>
+    <referentiecodeRDW>MGP150042</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>86SLKR</kenteken>
+    <referentiecodeRDW>MGP100287</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>JN757T</kenteken>
+    <referentiecodeRDW>MGP150020</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>88TLG6</kenteken>
+    <referentiecodeRDW>MGP140085</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>90KFK9</kenteken>
+    <referentiecodeRDW>MGP150162</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>97LGX6</kenteken>
+    <referentiecodeRDW>MGP160062</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>44HZG5</kenteken>
+    <referentiecodeRDW>MGP150219</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>61ZNJP</kenteken>
+    <referentiecodeRDW>MGP150162</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>59XTF9</kenteken>
+    <referentiecodeRDW>MGP130048</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+  <voertuig>
+    <kenteken>53XZTB</kenteken>
+    <referentiecodeRDW>MGP120122</referentiecodeRDW>
+    <codeStatus>P</codeStatus>
+    <status>Producent heeft herstel gemeld</status>
+  </voertuig>
+</voertuigen>
