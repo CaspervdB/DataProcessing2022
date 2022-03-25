@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="voertuigen" type="voertuig"/>
+    <xs:complexType name="voertuig">
+        <xs:sequence>
+            <xs:element type="xs:string" name="kenteken"/>
+            <xs:element type="xs:string" name="brandstofVolgnummer"/>
+            <xs:element type="xs:string" name="brandstofOmschrijving"/>
+            <xs:element type="xs:string" name="brandstofverbruikBuitenDeStad"/>
+            <xs:element type="xs:string" name="brandstofverbruikGecombineerd"/>
+            <xs:element type="xs:string" name="brandstofverbruikStad"/>
+            <xs:element type="xs:string" name="cO2UitstootGecombineerd"/>
+            <xs:element type="xs:string" name="cO2UitstootGewogen"/>
+            <xs:element type="xs:string" name="geluidsniveauRijdend"/>
+            <xs:element type="xs:string" name="geluidsniveauStationair"/>
+            <xs:element type="xs:string" name="emissieklasse"/>
+            <xs:element type="xs:string" name="milieuklasseEGGoedkeuringLicht"/>
+            <xs:element type="xs:string" name="milieuklasseEGGoedkeuringZwaar"/>
+            <xs:element type="xs:string" name="uitstootDeeltjesLicht"/>
+            <xs:element type="xs:string" name="uitstootDeeltjesZwaar"/>
+            <xs:element type="xs:string" name="nettomaximumvermogen"/>
+            <xs:element type="xs:string" name="nominaalContinuMaximumvermogen"/>
+            <xs:element type="xs:string" name="roetuitstoot"/>
+            <xs:element type="xs:string" name="toerentalGeluidsniveau"/>
+            <xs:element type="xs:integer" name="emissieDeeltjesType1wltp"/>
+            <xs:element type="xs:integer" name="emissieCo2GecombineerdWltp"/>
+            <xs:element type="xs:integer" name="emissieCo2GewogenGecombineerdWltp"/>
+            <xs:element type="xs:integer" name="brandstofVerbruikGecombineerdWltp"/>
+            <xs:element type="xs:integer" name="brandstofVerbruikGewogenGecombineerdWltp"/>
+            <xs:element type="xs:integer" name="elektrischVerbruikEnkelElektrischWltp"/>
+            <xs:element type="xs:integer" name="actieRadiusEnkelElektrischWltp"/>
+            <xs:element type="xs:integer" name="actieRadiusEnkelElektrischStadWltp"/>
+            <xs:element type="xs:integer" name="elektriscVerbruikExternOpladenWltp"/>
+            <xs:element type="xs:integer" name="actieRadiuExternOpladenWltp"/>
+            <xs:element type="xs:integer" name="actieRadiusExternOpladenStadWltp"/>
+            <xs:element type="xs:integer" name="maxVermogen15minuten"/>
+            <xs:element type="xs:integer" name="maxVermogen60minuten"/>
+            <xs:element type="xs:integer" name="nettoMaxVermogenElektrisch"/>
+            <xs:element type="xs:string" name="klasseHybrideElektrischVoertuig"/>
+            <xs:element type="xs:integer" name="opgegevenMaximumSnelheid"/>
+            <xs:element type="xs:string" name="uitlaatemissieniveau"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

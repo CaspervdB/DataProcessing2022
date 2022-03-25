@@ -1,0 +1,115 @@
+{
+  "$schema": "https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen_brandstof/8ys7-d773",
+  "title": "Verbruik",
+  "description": "Dataset met verbruik per voertuig",
+  "type": "object",
+  "properties": {
+    "Kentenken": {
+      "type": "string"
+    },
+    "brandstofOmschrijving": {
+      "type": "number"
+    },
+    "brandstofverbruikBuitenDeStad": {
+      "type": "string"
+    },
+    "brandstofverbruikGecombineerd": {
+      "type": "number"
+    },
+    "brandstofverbruikStad": {
+      "type": "number"
+    },
+    "cO2UitstootGecombineerd": {
+      "type": "number"
+    },
+    "cO2UitstootGewogen": {
+      "type": "number"
+    },
+    "geluidsniveauRijdend": {
+      "type": "number"
+    },
+    "geluidsniveauStationair": {
+      "type": "number"
+    },
+    "emissieklasse": {
+      "type": "number"
+    },
+    "milieuklasseEGGoedkeuringLicht": {
+      "type": "string"
+    },
+    "milieuklasseEGGoedkeuringZwaar": {
+      "type": "string"
+    },
+    "uitstootDeeltjesLicht": {
+      "type": "string"
+    },
+    "uitstootDeeltjesZwaar": {
+      "type": "string"
+    },
+    "nettomaximumvermogen": {
+      "type": "number"
+    },
+    "nominaalContinuMaximumvermogen": {
+      "type": "string"
+    },
+    "roetuitstoot": {
+      "type": "string"
+    },
+    "toerentalGeluidsniveau": {
+      "type": "number"
+    },
+    "emissieDeeltjesType1wltp": {
+      "type": "number"
+    },
+    "emissieCo2GecombineerdWltp": {
+      "type": "number"
+    },
+    "emissieCo2GewogenGecombineerdWltp": {
+      "type": "number"
+    },
+    "brandstofVerbruikGecombineerdWltp": {
+      "type": "number"
+    },
+    "brandstofVerbruikGewogenGecombineerdWltp": {
+      "type": "number"
+    },
+    "elektrischVerbruikEnkelElektrischWltp": {
+      "type": "number"
+    },
+    "actieRadiusEnkelElektrischWltp": {
+      "type": "number"
+    },
+    "actieRadiusEnkelElektrischStadWltp": {
+      "type": "number"
+    },
+    "elektriscVerbruikExternOpladenWltp": {
+      "type": "number"
+    },
+    "actieRadiuExternOpladenWltp": {
+      "type": "number"
+    },
+    "actieRadiusExternOpladenStadWltp": {
+      "type": "number"
+    },
+    "maxVermogen15minuten": {
+      "type": "number"
+    },
+    "maxVermogen60minuten": {
+      "type": "number"
+    },
+    "nettoMaxVermogenElektrisch": {
+      "type": "number"
+    },
+    "klasseHybrideElektrischVoertuig": {
+      "type": "string"
+    },
+    "opgegevenMaximumSnelheid": {
+      "type": "number"
+    },
+    "uitlaatemissieniveau": {
+      "type": "string"
+    }
+  ,
+    "required": [ "Kenteken", "brandstofVolgnummer", "brandstofOmschrijving" ]
+  }
+}
