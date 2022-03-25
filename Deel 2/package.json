@@ -19,5 +19,11 @@
   "homepage": "https://github.com/CaspervdB/DataProcessing2022#readme",
   "dependencies": {
     "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "express-xml-bodyparser": "^0.3.0",
+    "jsonschema": "^1.4.0",
+    "libxmljs2-xsd": "^0.28.0",
+    "xml2js": "^0.4.23"
   }
 }
