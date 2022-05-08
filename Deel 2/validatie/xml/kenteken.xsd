@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="voertuigen" type="voertuig"/>
+    <xs:complexType name="voertuig">
+        <xs:sequence>
+            <xs:element name="kenteken">
+            <xs:complexType>
+                <xs:attribute name="kenteken"
+                              type="xs:string"
+                              use="required"/>
+            </xs:complexType>
+            </xs:element>
+            <xs:element type="xs:string" name="voertuigsoort">
+                <xs:complexType>
+                    <xs:attribute name="voertuigsoort"
+                                  type="xs:string"
+                                  use="required"/>
+                </xs:complexType>
+            </xs:element>
+            <xs:element type="xs:string" name="merk"/>
+            <xs:element type="xs:string" name="handelsbenaming">
+                <xs:complexType>
+                    <xs:attribute name="handelsbenaming"
+                                  type="xs:string"
+                                  use="required"/>
+                </xs:complexType>
+            </xs:element>
+            <xs:element type="xs:integer" name="vervaldatumAPK"/>
+            <xs:element name="datumTenaamstelling">
+                <xs:complexType>
+                    <xs:attribute name="datumTenaamstelling"
+                                  type="xs:integer"
+                                  use="required"/>
+                </xs:complexType>
+            </xs:element>
+            <xs:element type="xs:integer" name="brutoBPM"/>
+            <xs:element type="xs:string" name="inrichting"/>
+            <xs:element type="xs:integer" name="aantalZitplaatsen"/>
+            <xs:element name="eersteKleur">
+                <xs:complexType>
+                    <xs:attribute name="eersteKleur"
+                                  type="xs:string"
+                                  use="required"/>
+                </xs:complexType>
+            </xs:element>
+            <xs:element type="xs:string" name="tweedeKleur"/>
+            <xs:element type="xs:integer" name="aantalcilinders"/>
+            <xs:element type="xs:integer" name="cilinderinhoud"/>
+            <xs:element type="xs:integer" name="massaLedigVoertuig"/>
+            <xs:element type="xs:integer" name="toegestaneMaximumMassaVoertuig"/>
+            <xs:element type="xs:integer" name="massaRijklaar"/>
+            <xs:element type="xs:integer" name="maximumMassaTrekkenOngeremd"/>
+            <xs:element type="xs:integer" name="maximumTrekkenMassaGeremd"/>
+            <xs:element type="xs:integer" name="datumEersteToelating"/>
+            <xs:element type="xs:integer" name="datumEersteAfgifteNederland"/>
+            <xs:element type="xs:string" name="wachtOpKeuren"/>
+            <xs:element type="xs:integer" name="catalogusprijs"/>
+            <xs:element type="xs:string" name="wamVerzekerd"/>
+            <xs:element type="xs:string" name="exportIndicator"/>
+            <xs:element type="xs:string" name="taxiIndicator"/>
+            <xs:element type="xs:string" name="tellerstandoordeel"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

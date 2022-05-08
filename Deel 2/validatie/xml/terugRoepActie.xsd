@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="voertuigen" type="voertuig"/>
+    <xs:complexType name="voertuig">
+        <xs:sequence>
+            <xs:element type="xs:string" name="kenteken"/>
+            <xs:element type="xs:string" name="referentiecodeRDW"/>
+            <xs:element type="xs:string" name="codeStatus"/>
+            <xs:element type="xs:string" name="status"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

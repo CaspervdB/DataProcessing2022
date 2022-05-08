@@ -7,36 +7,6 @@
     <brandstofverbruikBuitenDeStad>4.90</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>5.90</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>7.60</brandstofverbruikStad>
-    <cO2UitstootGecombineerd>139</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>73</geluidsniveauRijdend>
-    <geluidsniveauStationair>78</geluidsniveauStationair>
-    <emissieklasse>4</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>70/220*2003/76B</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>51.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>4050</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 4</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>FJP11T</kenteken>
@@ -45,36 +15,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>2018/295</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>1.20</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSX19V</kenteken>
@@ -83,36 +23,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>10</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TST27V</kenteken>
@@ -121,36 +31,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>30</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>10MLSX</kenteken>
@@ -159,36 +39,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>80</geluidsniveauRijdend>
-    <geluidsniveauStationair>88</geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>63.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSV79L</kenteken>
@@ -197,36 +47,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>40</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>1GV544</kenteken>
@@ -235,36 +55,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>25</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSZ04F</kenteken>
@@ -273,36 +63,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>25</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N480NS</kenteken>
@@ -311,36 +71,6 @@
     <brandstofverbruikBuitenDeStad>3.50</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>3.80</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>4.30</brandstofverbruikStad>
-    <cO2UitstootGecombineerd>86</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>69</geluidsniveauRijdend>
-    <geluidsniveauStationair>76</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AP</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>53.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp>112</emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp>4.90</brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 AP</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSP99L</kenteken>
@@ -349,36 +79,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>79</geluidsniveauRijdend>
-    <geluidsniveauStationair>80</geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>2016/1628/EC</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>183.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>2050</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>40</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>VNG85X</kenteken>
@@ -387,36 +87,6 @@
     <brandstofverbruikBuitenDeStad>8.20</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>8.30</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>8.40</brandstofverbruikStad>
-    <cO2UitstootGecombineerd>219</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>68</geluidsniveauRijdend>
-    <geluidsniveauStationair>82</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar>595/2009*2018/932D</milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>120.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>2850</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp>318</emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp>12.10</brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO VI D</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N645NB</kenteken>
@@ -425,36 +95,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AP</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>37.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>59.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig>NOVC-HEV</klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 AP</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N797JB</kenteken>
@@ -463,36 +103,6 @@
     <brandstofverbruikBuitenDeStad>9.50</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>12.00</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>16.30</brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>74</geluidsniveauRijdend>
-    <geluidsniveauStationair>75</geluidsniveauStationair>
-    <emissieklasse>4</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>70/220*2001/100B</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>154.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 4</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N416LN</kenteken>
@@ -501,36 +111,6 @@
     <brandstofverbruikBuitenDeStad>4.30</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>4.90</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>5.90</brandstofverbruikStad>
-    <cO2UitstootGecombineerd>113</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>67</geluidsniveauRijdend>
-    <geluidsniveauStationair>74</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AP</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>100.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3375</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp>0.08</emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp>131</emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp>5.80</brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 AP</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N836LF</kenteken>
@@ -539,36 +119,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>68</geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>Z</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AX</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>80.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp>190.00</elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp>450</actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp>560</actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten>73.00</maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>210.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>AX</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSX51N</kenteken>
@@ -577,36 +127,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>35</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>32BSH1</kenteken>
@@ -615,36 +135,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>77</geluidsniveauRijdend>
-    <geluidsniveauStationair>85</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar>595/2009*2016/1718C</milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>355.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>1256</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO VI C</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSV06L</kenteken>
@@ -653,36 +143,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>15</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSV19Z</kenteken>
@@ -691,36 +151,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>16</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N095JK</kenteken>
@@ -729,36 +159,6 @@
     <brandstofverbruikBuitenDeStad>5.10</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>6.00</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>7.50</brandstofverbruikStad>
-    <cO2UitstootGecombineerd>139</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>70</geluidsniveauRijdend>
-    <geluidsniveauStationair>76</geluidsniveauStationair>
-    <emissieklasse>5</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*630/2012J</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht>0.00152</uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>121.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 5 J</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N885NZ</kenteken>
@@ -767,36 +167,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair>81</geluidsniveauStationair>
-    <emissieklasse>5</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar>2005/55*2008/74K</milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar>0.00100</uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>80.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>2625</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EEV K</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>122GV4</kenteken>
@@ -805,36 +175,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>40</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>13BSG8</kenteken>
@@ -843,36 +183,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>80</geluidsniveauRijdend>
-    <geluidsniveauStationair>87</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar>595/2009*136/2014C</milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>184.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>1650</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO VI C</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>H811RF</kenteken>
@@ -881,36 +191,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>10.10</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>32.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig>NOVC-HEV</klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TST73X</kenteken>
@@ -919,36 +199,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>40</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N736JT</kenteken>
@@ -957,36 +207,6 @@
     <brandstofverbruikBuitenDeStad>4.90</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>5.80</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>7.40</brandstofverbruikStad>
-    <cO2UitstootGecombineerd>135</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>71</geluidsniveauRijdend>
-    <geluidsniveauStationair>75</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*136/2014W</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht>0.00029</uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>115.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 W</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N440HH</kenteken>
@@ -995,36 +215,6 @@
     <brandstofverbruikBuitenDeStad>4.90</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>5.80</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>7.30</brandstofverbruikStad>
-    <cO2UitstootGecombineerd>136</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>71</geluidsniveauRijdend>
-    <geluidsniveauStationair>81</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*136/2014W</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht>0.00210</uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>88.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 W</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>H023SX</kenteken>
@@ -1033,36 +223,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>10.10</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>32.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig>NOVC-HEV</klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSZ37P</kenteken>
@@ -1071,36 +231,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>40</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>DKP18H</kenteken>
@@ -1109,36 +239,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>65</geluidsniveauRijdend>
-    <geluidsniveauStationair>76</geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>97/24/EC 2009/108/EC Chap5 stage 2</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>1.80</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>DZD39X</kenteken>
@@ -1147,36 +247,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>(EU) No 134/2014 including all amen</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>1.60</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>DGH45S</kenteken>
@@ -1185,36 +255,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>65</geluidsniveauRijdend>
-    <geluidsniveauStationair>75</geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>97/24/5/ECStage2-108/2009/EC</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>1.62</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>2750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSX21R</kenteken>
@@ -1223,36 +263,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>24</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSX98S</kenteken>
@@ -1261,36 +271,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>25</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>99MLST</kenteken>
@@ -1299,36 +279,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>73</geluidsniveauRijdend>
-    <geluidsniveauStationair>96</geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>35.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>5250</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N820NJ</kenteken>
@@ -1337,36 +287,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>4.90</brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd>111</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>68</geluidsniveauRijdend>
-    <geluidsniveauStationair>73</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2017/1347AG</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>85.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp>0.12</emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp>131</emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp>5.80</brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 AG</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>12VXK4</kenteken>
@@ -1375,36 +295,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>4</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht>0.00200</uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>96.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSZ17T</kenteken>
@@ -1413,36 +303,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>25</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>DZK63F</kenteken>
@@ -1451,36 +311,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>65</geluidsniveauRijdend>
-    <geluidsniveauStationair>78</geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>97/24*2006/27/5</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>1.12</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>2750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N987NR</kenteken>
@@ -1489,36 +319,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>70</geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2017/1347AG</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>8.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten>8.00</maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>10.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig>NOVC-HEV</klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 AG</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>DXZ66S</kenteken>
@@ -1527,36 +327,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>(EU) No 134/2014 including all amen</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>1.30</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>627GV0</kenteken>
@@ -1565,36 +335,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>50</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSZ45G</kenteken>
@@ -1603,36 +343,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>20</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>DZG06K</kenteken>
@@ -1641,36 +351,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>EU No 134/2014 up to EU 2018/295</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>1.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N047JX</kenteken>
@@ -1679,36 +359,6 @@
     <brandstofverbruikBuitenDeStad>5.00</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>5.10</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>5.30</brandstofverbruikStad>
-    <cO2UitstootGecombineerd>117</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>67</geluidsniveauRijdend>
-    <geluidsniveauStationair>73</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AP</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>132.20</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp>0.33</emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp>146</emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp>6.40</brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig>NOVC-HEV</klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 AP</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N198GL</kenteken>
@@ -1717,36 +367,6 @@
     <brandstofverbruikBuitenDeStad>3.50</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>3.80</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>4.30</brandstofverbruikStad>
-    <cO2UitstootGecombineerd>99</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>69</geluidsniveauRijdend>
-    <geluidsniveauStationair>69</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*136/2014W</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>81.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot>0.50</roetuitstoot>
-    <toerentalGeluidsniveau>2375</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 W</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N873NV</kenteken>
@@ -1755,36 +375,6 @@
     <brandstofverbruikBuitenDeStad>5.50</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>6.30</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>7.80</brandstofverbruikStad>
-    <cO2UitstootGecombineerd>146</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>72</geluidsniveauRijdend>
-    <geluidsniveauStationair>76</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2015/45W</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht>0.00174</uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>110.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 W</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSX34T</kenteken>
@@ -1793,36 +383,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>40</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSZ58D</kenteken>
@@ -1831,36 +391,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>40</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N790NB</kenteken>
@@ -1869,36 +399,6 @@
     <brandstofverbruikBuitenDeStad>5.70</brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd>6.70</brandstofverbruikGecombineerd>
     <brandstofverbruikStad>8.40</brandstofverbruikStad>
-    <cO2UitstootGecombineerd>106</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AP</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>74.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp>108</emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp>7.00</brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 AP</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TST89N</kenteken>
@@ -1907,36 +407,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>40</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>77MLLZ</kenteken>
@@ -1945,36 +415,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair>92</geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>81.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3875</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>DZD06T</kenteken>
@@ -1983,36 +423,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>1.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSR01Z</kenteken>
@@ -2021,36 +431,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>25</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>DXZ70S</kenteken>
@@ -2059,36 +439,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>(EU) No 134/2014 including all amen</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>1.30</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSV52S</kenteken>
@@ -2097,36 +447,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>25</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSZ80X</kenteken>
@@ -2135,36 +455,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>25</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TST72X</kenteken>
@@ -2173,36 +463,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>40</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSV64F</kenteken>
@@ -2211,36 +471,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>35</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSZ75S</kenteken>
@@ -2249,36 +479,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>38</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSX54J</kenteken>
@@ -2287,36 +487,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>30</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N029NJ</kenteken>
@@ -2325,36 +495,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>68</geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>Z</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AX</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>51.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp>197.00</elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp>347</actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp>464</actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten>51.00</maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>100.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>AX</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>FJP24Z</kenteken>
@@ -2363,36 +503,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>(EU) No 134/2014 (EU) 2018/295</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>1.20</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSV92B</kenteken>
@@ -2401,36 +511,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>40</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N397KX</kenteken>
@@ -2439,36 +519,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen>42.00000</cO2UitstootGewogen>
-    <geluidsniveauRijdend>67</geluidsniveauRijdend>
-    <geluidsniveauStationair>72</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AP</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>186.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp>0.11</emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp>56</emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp>2.50</brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig>OVC-HEV</klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 AP</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSV42P</kenteken>
@@ -2477,36 +527,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>38</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>L491SP</kenteken>
@@ -2515,36 +535,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd>123</cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>66</geluidsniveauRijdend>
-    <geluidsniveauStationair>72</geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AP</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>67.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp>134</emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 AP</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSV09J</kenteken>
@@ -2553,36 +543,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>26</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N616KD</kenteken>
@@ -2591,36 +551,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>66</geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>Z</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AX</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>41.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp>164.00</elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp>129</actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp>178</actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>60.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>AX</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N816LH</kenteken>
@@ -2629,36 +559,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AP</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>37.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten>37.00</maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>53.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig>NOVC-HEV</klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 AP</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>VLB11S</kenteken>
@@ -2667,36 +567,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>68</geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>Z</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2016/646ZX</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>44.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten>33.10</maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>44.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>ZX</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N555NV</kenteken>
@@ -2705,36 +575,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>30.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp>201.00</elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp>69</actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp>81</actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>60.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig>OVC-HEV</klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N399NB</kenteken>
@@ -2743,36 +583,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>68</geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>Z</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AX</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>28.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp>147.00</elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp>484</actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp>660</actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>150.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>AX</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>DZ9551</kenteken>
@@ -2781,36 +591,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>0</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>16.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSV22T</kenteken>
@@ -2819,36 +599,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>30</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSV35X</kenteken>
@@ -2857,36 +607,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>25</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>DZJ73K</kenteken>
@@ -2895,36 +615,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>66</geluidsniveauRijdend>
-    <geluidsniveauStationair>77</geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>97/24*2006/27/5</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>2.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3500</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSV27H</kenteken>
@@ -2933,36 +623,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>30</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TST47B</kenteken>
@@ -2971,36 +631,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>17</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>05MLLV</kenteken>
@@ -3009,36 +639,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair>92</geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>50.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau>3750</toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>TSX73H</kenteken>
@@ -3047,36 +647,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse></emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid>20</opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>N903JD</kenteken>
@@ -3085,36 +655,6 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend></geluidsniveauRijdend>
-    <geluidsniveauStationair></geluidsniveauStationair>
-    <emissieklasse>6</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht>715/2007*2018/1832AP</milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen></nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen>48.00</nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten>48.00</maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch>88.00</nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig>NOVC-HEV</klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau>EURO 6 AP</uitlaatemissieniveau>
   </voertuig>
   <voertuig>
     <kenteken>H625SP</kenteken>
@@ -3123,35 +663,5 @@
     <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>
     <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>
     <brandstofverbruikStad></brandstofverbruikStad>
-    <cO2UitstootGecombineerd></cO2UitstootGecombineerd>
-    <cO2UitstootGewogen></cO2UitstootGewogen>
-    <geluidsniveauRijdend>76</geluidsniveauRijdend>
-    <geluidsniveauStationair>84</geluidsniveauStationair>
-    <emissieklasse>0</emissieklasse>
-    <milieuklasseEGGoedkeuringLicht></milieuklasseEGGoedkeuringLicht>
-    <milieuklasseEGGoedkeuringZwaar></milieuklasseEGGoedkeuringZwaar>
-    <uitstootDeeltjesLicht></uitstootDeeltjesLicht>
-    <uitstootDeeltjesZwaar></uitstootDeeltjesZwaar>
-    <nettomaximumvermogen>60.00</nettomaximumvermogen>
-    <nominaalContinuMaximumvermogen></nominaalContinuMaximumvermogen>
-    <roetuitstoot></roetuitstoot>
-    <toerentalGeluidsniveau></toerentalGeluidsniveau>
-    <emissieDeeltjesType1wltp></emissieDeeltjesType1wltp>
-    <emissieCo2GecombineerdWltp></emissieCo2GecombineerdWltp>
-    <emissieCo2GewogenGecombineerdWltp></emissieCo2GewogenGecombineerdWltp>
-    <brandstofVerbruikGecombineerdWltp></brandstofVerbruikGecombineerdWltp>
-    <brandstofVerbruikGewogenGecombineerdWltp></brandstofVerbruikGewogenGecombineerdWltp>
-    <elektrischVerbruikEnkelElektrischWltp></elektrischVerbruikEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischWltp></actieRadiusEnkelElektrischWltp>
-    <actieRadiusEnkelElektrischStadWltp></actieRadiusEnkelElektrischStadWltp>
-    <elektriscVerbruikExternOpladenWltp></elektriscVerbruikExternOpladenWltp>
-    <actieRadiuExternOpladenWltp></actieRadiuExternOpladenWltp>
-    <actieRadiusExternOpladenStadWltp></actieRadiusExternOpladenStadWltp>
-    <maxVermogen15minuten></maxVermogen15minuten>
-    <maxVermogen60minuten></maxVermogen60minuten>
-    <nettoMaxVermogenElektrisch></nettoMaxVermogenElektrisch>
-    <klasseHybrideElektrischVoertuig></klasseHybrideElektrischVoertuig>
-    <opgegevenMaximumSnelheid></opgegevenMaximumSnelheid>
-    <uitlaatemissieniveau></uitlaatemissieniveau>
   </voertuig>
 </voertuigen>

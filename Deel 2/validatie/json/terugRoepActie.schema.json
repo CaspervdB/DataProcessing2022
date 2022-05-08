@@ -1,0 +1,22 @@
+{
+  "$schema": "https://opendata.rdw.nl/Terugroepacties/Open-Data-RDW-Terugroep_actie_status/t49b-isb7",
+  "title": "Terug roep actie",
+  "description": "Dataset met terug roep acties",
+  "type": "object",
+  "properties": {
+    "Kentenken": {
+      "type": "string"
+    },
+    "referentiecodeRDW": {
+          "type": "string"
+        },
+    "codeStatus": {
+          "type": "string"
+        },
+    "status": {
+           "type": "string"
+          }
+          ,
+            "required": [ "Kenteken", "referentiecodeRDW", "codeStatus", "status" ]
+  }
+}

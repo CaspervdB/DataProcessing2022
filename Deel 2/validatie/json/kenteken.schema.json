@@ -1,0 +1,91 @@
+{
+  "$schema": "https://opendata.rdw.nl/Voertuigen/Open-Data-RDW-Gekentekende_voertuigen/m9d7-ebf2",
+  "title": "Terug roep actie",
+  "description": "Dataset met voertuigen",
+  "type": "object",
+  "properties": {
+    "Kentenken": {
+      "type": "string"
+    },
+    "voertuigsoort": {
+      "type": "string"
+    },
+    "merk": {
+      "type": "string"
+    },
+    "handelsbenaming": {
+      "type": "string"
+    },
+    "vervaldatumAPK": {
+      "type": "number"
+    },
+    "datumTenaamstelling": {
+      "type": "number"
+    },
+    "brutoBPM": {
+      "type": "number"
+    },
+    "inrichting": {
+      "type": "string"
+    },
+    "codeStatus": {
+      "type": "string"
+    },
+    "aantalZitplaatsen": {
+      "type": "number"
+    },
+    "eersteKleur": {
+      "type": "string"
+    },
+    "tweedeKleur": {
+      "type": "string"
+    },
+    "aantalcilinders": {
+      "type": "number"
+    },
+    "cilinderinhoud": {
+      "type": "number"
+    },
+    "massaLedigVoertuig": {
+      "type": "number"
+    },
+    "toegestaneMaximumMassaVoertuig": {
+      "type": "number"
+    },
+    "massaRijklaar": {
+      "type": "number"
+    },
+    "maximumMassaTrekkenOngeremd": {
+      "type": "number"
+    },
+    "maximumTrekkenMassaGeremd": {
+      "type": "number"
+    },
+    "datumEersteToelating": {
+      "type": "number"
+    },
+    "datumEersteAfgifteNederland": {
+      "type": "number"
+    },
+    "wachtOpKeuren": {
+      "type": "string"
+    },
+    "catalogusprijs": {
+      "type": "number"
+    },
+    "wamVerzekerd": {
+      "type": "string"
+    },
+    "exportIndicator": {
+      "type": "string"
+    },
+    "taxiIndicator": {
+      "type": "string"
+    },
+    "tellerstandoordeel": {
+      "type": "string"
+    }
+  ,
+    "required": [ "Kenteken", "voertuigsoort", "voertuigsoort", "handelsbenaming", "datumTenaamstelling", "eersteKleur" ]
+  }
+}
