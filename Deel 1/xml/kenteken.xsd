@@ -3,16 +3,46 @@
     <xs:element name="voertuigen" type="voertuig"/>
     <xs:complexType name="voertuig">
         <xs:sequence>
-            <xs:element type="xs:string" name="Kenteken"/>
-            <xs:element type="xs:string" name="voertuigsoort"/>
+            <xs:element name="kenteken">
+            <xs:complexType>
+                <xs:attribute name="kenteken"
+                              type="xs:string"
+                              use="required"/>
+            </xs:complexType>
+            </xs:element>
+            <xs:element type="xs:string" name="voertuigsoort">
+                <xs:complexType>
+                    <xs:attribute name="voertuigsoort"
+                                  type="xs:string"
+                                  use="required"/>
+                </xs:complexType>
+            </xs:element>
             <xs:element type="xs:string" name="merk"/>
-            <xs:element type="xs:string" name="handelsbenaming"/>
+            <xs:element type="xs:string" name="handelsbenaming">
+                <xs:complexType>
+                    <xs:attribute name="handelsbenaming"
+                                  type="xs:string"
+                                  use="required"/>
+                </xs:complexType>
+            </xs:element>
             <xs:element type="xs:integer" name="vervaldatumAPK"/>
-            <xs:element type="xs:integer" name="datumTenaamstelling"/>
+            <xs:element name="datumTenaamstelling">
+                <xs:complexType>
+                    <xs:attribute name="datumTenaamstelling"
+                                  type="xs:integer"
+                                  use="required"/>
+                </xs:complexType>
+            </xs:element>
             <xs:element type="xs:integer" name="brutoBPM"/>
             <xs:element type="xs:string" name="inrichting"/>
             <xs:element type="xs:integer" name="aantalZitplaatsen"/>
-            <xs:element type="xs:string" name="eersteKleur"/>
+            <xs:element name="eersteKleur">
+                <xs:complexType>
+                    <xs:attribute name="eersteKleur"
+                                  type="xs:string"
+                                  use="required"/>
+                </xs:complexType>
+            </xs:element>
             <xs:element type="xs:string" name="tweedeKleur"/>
             <xs:element type="xs:integer" name="aantalcilinders"/>
             <xs:element type="xs:integer" name="cilinderinhoud"/>
@@ -26,73 +56,9 @@
             <xs:element type="xs:string" name="wachtOpKeuren"/>
             <xs:element type="xs:integer" name="catalogusprijs"/>
             <xs:element type="xs:string" name="wamVerzekerd"/>
-            <xs:element type="xs:integer" name="maximaleConstructiesnelheid"/>
-            <xs:element type="xs:integer" name="laadvermogen"/>
-            <xs:element type="xs:integer" name="opleggerGeremd"/>
-            <xs:element type="xs:integer" name="aanhangwagenAutonoomGeremd"/>
-            <xs:element type="xs:integer" name="aanhangwagenMiddenasGeremd"/>
-            <xs:element type="xs:integer" name="aantalStaanplaatsen"/>
-            <xs:element type="xs:integer" name="aantalDeuren"/>
-            <xs:element type="xs:integer" name="aantalWielen"/>
-            <xs:element type="xs:integer" name="afstandHartKoppelingTotAchterzijdeVoertuig"/>
-            <xs:element type="xs:integer" name="afstandVoorzijdeVoertuigTotHartKoppeling"/>
-            <xs:element type="xs:integer" name="afwijkendeMaximumSnelheid"/>
-            <xs:element type="xs:integer" name="lengte"/>
-            <xs:element type="xs:integer" name="breedte"/>
-            <xs:element type="xs:string" name="europeseVoertuigcategorie"/>
-            <xs:element type="xs:string" name="europeseVoertuigcategorieToevoeging"/>
-            <xs:element type="xs:string" name="europeseUitvoeringcategorieToevoeging"/>
-            <xs:element type="xs:string" name="plaatsChassisnummer"/>
-            <xs:element type="xs:integer" name="technischeMaxMassaVoertuig"/>
-            <xs:element type="xs:string" name="type"/>
-            <xs:element type="xs:string" name="typeGasinstallatie"/>
-            <xs:element type="xs:string" name="typegoedkeuringsnummer"/>
-            <xs:element type="xs:string" name="variant"/>
-            <xs:element type="xs:string" name="uitvoering"/>
-            <xs:element type="xs:integer" name="volgnummerWijzigingEUtypegoedkeuring"/>
-            <xs:element type="xs:integer" name="vermogenMassarijklaar"/>
-            <xs:element type="xs:integer" name="wielbasis"/>
             <xs:element type="xs:string" name="exportIndicator"/>
-            <xs:element type="xs:string" name="openstaandeTerugroepactieIndicator"/>
-            <xs:element type="xs:integer" name="vervaldatumTachograaf"/>
             <xs:element type="xs:string" name="taxiIndicator"/>
-            <xs:element type="xs:integer" name="maximumMassaSamenstelling"/>
-            <xs:element type="xs:integer" name="aantalRolstoelplaatsen"/>
-            <xs:element type="xs:integer" name="maximumOndersteunendeSnelheid"/>
-            <xs:element type="xs:integer" name="jaarLaatsteRegistratieTellerstand"/>
             <xs:element type="xs:string" name="tellerstandoordeel"/>
-            <xs:element type="xs:string" name="codeToelichtingTellerstandoordeel"/>
-            <xs:element type="xs:string" name="tenaamstellenMogelijk"/>
-            <xs:element type="xs:dateTime" name="vervaldatumAPKdt"/>
-            <xs:element type="xs:dateTime" name="datumTenaamstellinDT"/>
-            <xs:element type="xs:dateTime" name="datumEersteToelatingDT"/>
-            <xs:element type="xs:dateTime" name="datumEersteAfgifteNederlandDT"/>
-            <xs:element type="xs:dateTime" name="vervaldatumTachograafDT"/>
-            <xs:element type="xs:integer" name="maximumlastOnderDeVooras"/>
-            <xs:element type="xs:string" name="typeRemsysteemVoertuigCode"/>
-            <xs:element type="xs:string" name="rupsonderstelconfiguratiecode"/>
-            <xs:element type="xs:integer" name="wielbasisVoertuigMinimum"/>
-            <xs:element type="xs:integer" name="wielbasisVoertuigMaximum"/>
-            <xs:element type="xs:integer" name="lengteVoertuigMinimum"/>
-            <xs:element type="xs:integer" name="lengteVoertuigMaximum"/>
-            <xs:element type="xs:integer" name="breedteVoertuigMinimum"/>
-            <xs:element type="xs:integer" name="breedteVoertuigMaximum"/>
-            <xs:element type="xs:integer" name="hoogteVoertuig"/>
-            <xs:element type="xs:integer" name="hoogteVoertuigMinimum"/>
-            <xs:element type="xs:integer" name="hoogteVoertuigMaximum"/>
-            <xs:element type="xs:integer" name="massaBedrijfsklaarMinimaal"/>
-            <xs:element type="xs:integer" name="massaBedrijfsklaarMaximaal"/>
-            <xs:element type="xs:integer" name="technischToelaatbaarMassaKoppelpunt"/>
-            <xs:element type="xs:integer" name="maximumMassaTechnischMaximaal"/>
-            <xs:element type="xs:integer" name="maximumMassaTechnischMinimaal"/>
-            <xs:element type="xs:string" name="subcategorieNederland"/>
-            <xs:element type="xs:integer" name="verticaleBelastingKoppelpuntGetrokkenVoertuig"/>
-            <xs:element type="xs:string" name="zuinigheidsclassificatie"/>
-            <xs:element type="xs:string" name="APIGekentekende_voertuigen_assen"/>
-            <xs:element type="xs:string" name="APIGekentekende_voertuigen_brandstof"/>
-            <xs:element type="xs:string" name="APIGekentekende_voertuigen_carrosserie"/>
-            <xs:element type="xs:string" name="APIGekentekende_voertuigen_carrosserie_specifiek"/>
-            <xs:element type="xs:string" name="APIGekentekende_voertuigen_voertuigklasse"/>
         </xs:sequence>
     </xs:complexType>
 </xs:schema>
