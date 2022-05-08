@@ -1,0 +1,419 @@
+{
+	"info": {
+		"_postman_id": "357b4ca7-bc2c-4a03-bd24-ccf1d648a134",
+		"name": "API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "kenteken",
+			"item": [
+				{
+					"name": "addVehicle",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "<kenteken kenteken='39glzx'></kenteken>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3000/kenteken",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"kenteken"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "findAllVehicles",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/kenteken",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"kenteken"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "findVehicleByPlate",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/kenteken?kenteken=39GLZX",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"kenteken"
+							],
+							"query": [
+								{
+									"key": "kenteken",
+									"value": "39GLZX"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deleteVehicleByPlate",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/kenteken?kenteken=35SNRH",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"kenteken"
+							],
+							"query": [
+								{
+									"key": "kenteken",
+									"value": "35SNRH"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "updateVehicleByPlate",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/kenteken?kenteken=35SNRH&merk=VOLVO",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"kenteken"
+							],
+							"query": [
+								{
+									"key": "kenteken",
+									"value": "35SNRH"
+								},
+								{
+									"key": "merk",
+									"value": "VOLVO"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "terugRoepActie",
+			"item": [
+				{
+					"name": "findAllRecalls",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/terugRoepActie",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"terugRoepActie"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "findRecallByPlate",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/terugRoepActie?kenteken=39GLZX",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"terugRoepActie"
+							],
+							"query": [
+								{
+									"key": "kenteken",
+									"value": "39GLZX"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deleteRecallByPlate",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/terugRoepActie?kenteken=39GLZX",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"terugRoepActie"
+							],
+							"query": [
+								{
+									"key": "kenteken",
+									"value": "39GLZX"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "updateRecallByPlate",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/terugRoepActie?kenteken=39GLZX&codeStatus=O",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"terugRoepActie"
+							],
+							"query": [
+								{
+									"key": "kenteken",
+									"value": "39GLZX"
+								},
+								{
+									"key": "codeStatus",
+									"value": "O"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "addRecall",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/terugRoepActie",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"terugRoepActie"
+							],
+							"query": [
+								{
+									"key": "kenteken",
+									"value": "39GLZX",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "verbruik",
+			"item": [
+				{
+					"name": "findAllConsumptions",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/verbruik",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"verbruik"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "addConsumption",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "    <>\r\n    <kenteken>FJP11T</kenteken>\r\n    <brandstofVolgnummer>1</brandstofVolgnummer>\r\n    <brandstofOmschrijving>Elektriciteit</brandstofOmschrijving>\r\n    <brandstofverbruikBuitenDeStad></brandstofverbruikBuitenDeStad>\r\n    <brandstofverbruikGecombineerd></brandstofverbruikGecombineerd>\r\n    <brandstofverbruikStad></brandstofverbruikStad>\r\n    </>",
+							"options": {
+								"raw": {
+									"language": "xml"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:3000/verbruik",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"verbruik"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "findConsumptionByPlate",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/verbruik?kenteken=39GLZX",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"verbruik"
+							],
+							"query": [
+								{
+									"key": "kenteken",
+									"value": "39GLZX"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "deleteConsumptionByPlate",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/verbruik?kenteken=39GLZX",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"verbruik"
+							],
+							"query": [
+								{
+									"key": "kenteken",
+									"value": "39GLZX"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "updateConsumptionByPlate",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/verbruik?kenteken=39GLZX&brandstofOmschrijving=Benzin",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"verbruik"
+							],
+							"query": [
+								{
+									"key": "kenteken",
+									"value": "39GLZX"
+								},
+								{
+									"key": "brandstofOmschrijving",
+									"value": "Benzin"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "healthcheck",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/healthcheck",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"healthcheck"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
