@@ -1,15 +1,18 @@
-const express = require('express')
-const app = express()
+const express = require('express');
+const app = express();
 const bodyParser = require('body-parser');
 const PORT = 3000;
 let sql;
 const url = require('url');
 const Validator = require('jsonschema').Validator;
 const v = new Validator();
+const xml2js = require("xml2js");
 
-import kentekenDraft07 from "./validatie/json/kenteken.schema.json";
-import actieDraft07 from "./validatie/json/terugRoepActie.schema.json";
-import verbruikDraft07 from "./validatie/json/verbruik.schema.json";
+const parser = new xml2js.Parser();
+
+// import kentekenDraft07 from "./validatie/json/kenteken.schema.json";
+// import actieDraft07 from "./validatie/json/terugRoepActie.schema.json";
+// import verbruikDraft07 from "./validatie/json/verbruik.schema.json";
 
 const sqlite = require('sqlite3').verbose();
 const db = new sqlite.Database('./database.db', sqlite.OPEN_READWRITE,(err)=>{
@@ -18,18 +21,14 @@ const db = new sqlite.Database('./database.db', sqlite.OPEN_READWRITE,(err)=>{
 
 app.use(bodyParser.json());
 
-function isJSON(string) {
-    try {
-        JSON.parse(string);
-    } catch (e) {
-        return false;
-    }
-    return true;
-}
-
 // CRUD operations for kenteken.
 app.post('/kenteken', (req, res) => {
     try {
+        console.log(req.body);
+        parser.parseString(req.body, function (err, result) {
+            let json = JSON.stringify(result);
+            console.log(json + " this is json");
+        });
         const { kenteken , voertuigsoort, merk, handelsbenaming, vervaldatumAPK, datumTenaamstelling, brutoBPM, inrichting, aantalZitplaatsen, eersteKleur, tweedeKleur, aantalCilinders, cilinderInhoud, massaLedigVoertuig, toegestaandeMaximumMassaVoertuig, massaRijklaar, maximumMassaTrekkenOngeremd, maximumMassaTrekkenGeremd, datumEersteToelating, datumEersteAfgifteNederland, wachtOpKeuren, catalogusprijs, wamVerzekerd, exportIndicator, taxiIndicator, tellerstandoordeel} = req.body;
         sql = "INSERT INTO kenteken(kenteken, voertuigsoort, merk, handelsbenaming, vervaldatumAPK, datumTenaamstelling, brutoBPM, inrichting, aantalZitplaatsen, eersteKleur, tweedeKleur, aantalCilinders, cilinderInhoud, massaLedigVoertuig, toegestaandeMaximumMassaVoertuig, massaRijklaar, maximumMassaTrekkenOngeremd, maximumMassaTrekkenGeremd, datumEersteToelating, datumEersteAfgifteNederland, wachtOpKeuren, catalogusprijs, wamVerzekerd, exportIndicator, taxiIndicator, tellerstandoordeel) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
         db.run(sql, [kenteken , voertuigsoort, merk, handelsbenaming, vervaldatumAPK, datumTenaamstelling, brutoBPM, inrichting, aantalZitplaatsen, eersteKleur, tweedeKleur, aantalCilinders, cilinderInhoud, massaLedigVoertuig, toegestaandeMaximumMassaVoertuig, massaRijklaar, maximumMassaTrekkenOngeremd, maximumMassaTrekkenGeremd, datumEersteToelating, datumEersteAfgifteNederland, wachtOpKeuren, catalogusprijs, wamVerzekerd, exportIndicator, taxiIndicator, tellerstandoordeel], (err) => {
